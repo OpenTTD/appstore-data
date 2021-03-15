@@ -1,1 +1,13 @@
 ##plural 11
+
+STR_ABSTRACT                                    :OpenTTD는 승객과 화물을 도로, 철도, 해상, 항공으로 운송하여 돈을 버는 비즈니스 시뮬레이션 게임으로, 1995년에 Chris Sawyer가 제작한 비디오 게임 Transport Tycoon Deluxe의 오픈 소스 리메이크이자 확장판입니다.
+STR_OVERVIEW_BUILD_TITLE                        :건설
+STR_OVERVIEW_BUILD_TEXT                         :도로, 철도, 항만, 공항 네트워크를 구축하여 4096x4096 크기까지 지원되는 맵에서 산업시설과 도시를 연결해보세요. 네 종류의 기후에서 빽빽한 도시 거리를 탐색하고, 바다와 강을 건너고, 높은 산을 정복하세요.
+STR_OVERVIEW_TRANSPORT_TITLE                    :수송
+STR_OVERVIEW_TRANSPORT_TEXT                     :혼자, 또는 친구와 함께 산업시설을 연계하고 완제품을 도시로 수송하세요. 설정에서 화물 분배를 사용해서, 여러 운송 수단을 통해 서로 연결되어 있는 네트워크 안에서 수백 대의 차량을 만들어 필요에 따라 화물을 수송하세요.
+STR_OVERVIEW_UPGRADE_TITLE                      :업그레이드
+STR_OVERVIEW_UPGRADE_TEXT                       :도시가 성장하면서 기술이 발전되고, 새로운 운송 수단이 발명되고, 산업시설이 나타나거나 생산량이 바뀌거나 사라집니다. 역을 확장해서 수요에 따른 네트워크 수용량을 구축해서 수요를 충족하고 지연을 방지해보세요.
+STR_OVERVIEW_EXTEND_TITLE                       :확장
+STR_OVERVIEW_EXTEND_TEXT                        :실제 세계의 차량, 새로운 산업시설 세트, 사용자 시나리오 등 게임 내 콘텐츠 서비스를 통해 유저들이 제작한 모드를 통해 OpenTTD를 내 마음대로 커스터마이징하세요.
+STR_OVERVIEW_LICENSE_TITLE                      :무료 및 오픈 소스
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD는 GNU General Public License 버전 2.0에 따라 사용이 허가 된 무료 오픈 소스 소프트웨어입니다. OpenTTD는 현재 개발 중입니다. OpenTTD는 어떠한 것의 약어가 아닙니다.

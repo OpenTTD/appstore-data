@@ -1,1 +1,13 @@
 ##plural 0
+
+STR_ABSTRACT                                    :OpenTTD er et forretningssimuleringsspill der spillere tjener penger på å transportere passasjerer og gods via vei, jernbane, vann og luft. Det er en åpen kilde-gjenskapelse og utvidelse av Chris Sawyer-spillet Transport Tycoon Deluxe fra 1995.
+STR_OVERVIEW_BUILD_TITLE                        :Bygg
+STR_OVERVIEW_BUILD_TEXT                         :Koble sammen industrier og byer i tilfeldig genererte verdener opp til 4096 x 4096 ruter ved å bygge et nettverk av veier, jernbane, havner og flyplasser. Naviger trange bygater, kryss hav og elver, og erobre høye fjell i ett av 4 forskjellige klimaer.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Transport
+STR_OVERVIEW_TRANSPORT_TEXT                     :Arbeid alene eller med venner for å ferdigstille hundrevis av produksjonskjeder og transporter ferdig gods til byer. Sett sammen en flåte av hundrevis av kjøretøy som frakter gods dit der behov i et sammenkoblet, multimodalt nettverk med mange forskjellige godsdestinasjoner.
+STR_OVERVIEW_UPGRADE_TITLE                      :Oppgrader
+STR_OVERVIEW_UPGRADE_TEXT                       :Hold deg oppdatert på teknologiske forbedringer gjennom årene etter hvert som byene vokser; Nye transportmetoder blir oppfunne; industrier oppstår, endrer produksjonen eller blir lagt ned. Utvid stasjonene dine og bygg et transportnettverk med kapasitet til å holde tritt med forespørselen og unngå forsinkelser.
+STR_OVERVIEW_EXTEND_TITLE                       :Utvid
+STR_OVERVIEW_EXTEND_TEXT                        :Tilpass OpenTTD opplevelsen din med samfunnslagde modifikasjoner lastet ned gjennom en innholdtjeneste i spillet, inkludert kjøretøy fra den virkelige verden, nye industrisett, tilpassede scenarier og mer.
+STR_OVERVIEW_LICENSE_TITLE                      :Gratis og åpen-kilde
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD er gratis programvare med åpen kildekode, lisensiert under GNU General Public License versjon 2.0. OpenTTD er under kontinuerlig utvikling. OpenTTD er ikke en forkortelse av noe.

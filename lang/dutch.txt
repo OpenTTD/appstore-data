@@ -1,1 +1,13 @@
 ##plural 0
+
+STR_ABSTRACT                                    :OpenTTD is een bedrijfssimulatiespel waarin de spelers geld verdienen door passagiers en vracht te vervoeren over wegen, spoor, water en door de lucht. Het is een opnieuw gemaakte en uitgebreide openbron-versie van het computerspel Transport Tycoon Deluxe van Chris Sawyer uit 1995.
+STR_OVERVIEW_BUILD_TITLE                        :Bouwen
+STR_OVERVIEW_BUILD_TEXT                         :Verbind industrieën en steden over procedureel gegenereerde kaarten van wel 4096 x 4096 tegels door een netwerk op te bouwen van wegen, spoorwegen, dokken en vliegvelden. Navigeer door drukke stadswegen, steek oceanen en rivieren over en bedwing hoge bergen in één van vier klimaten.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Transport
+STR_OVERVIEW_TRANSPORT_TEXT                     :Werk alleen of samen met vrienden aan productieketens en vervoer de gemaakte goederen naar steden. Verzamel een vloot van honderden voertuigen en vervoer vracht over een onderling verbonden, multimodaal netwerk met optionele vrachtbestemmingen.
+STR_OVERVIEW_UPGRADE_TITLE                      :Opwaarderen
+STR_OVERVIEW_UPGRADE_TEXT                       :Houd de technologische vooruitgang bij door de jaren heen terwijl steden groeien, nieuwe transportmethoden worden uitgevonden en industrieën ontstaan, hun productie aanpassen of failliet gaan. Breid je stations uit en bouw netwerkcapaciteit uit zodat je aan de vraag kunt voldoen en vertragingen voorkomt.
+STR_OVERVIEW_EXTEND_TITLE                       :Uitbreiden
+STR_OVERVIEW_EXTEND_TEXT                        :Pas je OpenTTD-ervaring aan met door de gemeenschap gemaakte mods die je downloadt binnen het spel, waaronder kopieën van echte voertuigen, nieuwe sets industrieën, aangepaste scenario's en meer.
+STR_OVERVIEW_LICENSE_TITLE                      :Gratis en open bron
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD is gratis openbron-software met een licentie volgens GNU General Public License versie 2.0. OpenTTD wordt voortdurend verder ontwikkeld. OpenTTD is geen afkorting van iets.

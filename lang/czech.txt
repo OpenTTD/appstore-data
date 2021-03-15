@@ -1,1 +1,6 @@
 ##plural 10
+
+STR_ABSTRACT                                    :OpenTTD je podnikatelská simulační hra, ve které hráči vydělávají peníze přepravou pasažérů a nákladu po silnici, železnici, vodě i letecky. Jedná se o předělávku a rozšíření s otevřeným zdrojovým kódem hry Transport Tycoon Deluxe z roku 1995 od Chrise Sawyera.
+STR_OVERVIEW_BUILD_TEXT                         :Propoj průmysl a města na procedurálně generované mapě o velikosti až 4096 x 4096 políček vybudováním sítě silnic, železnic, přístavů a letišť. Neztrať se v rušných ulicích měst, překonej řeky a oceány, a pokoř vysoké hory v jednom ze čtyř podnebí.
+STR_OVERVIEW_UPGRADE_TEXT                       :Drž krok s technologickými vylepšeními v průběhu let s tím jak města rostou; jsou vynalezeny nové způsoby přepravy; a průmysl vzniká, zaniká či mění výrobu. Rozšiřuj stanice a posiluj kapacitu přepravní sítě pro uspokojení poptávky a zamezení zpoždění.
+STR_OVERVIEW_EXTEND_TEXT                        :Přízpůsob si svůj OpenTTD zážitek komunitou vytvořenými modifikacemi staženými přes ve hře zabudovaného správce obsahu. V nabídce jsou reálná vozidla, nové sady průmyslu, vlastní scénáře, a mnohem více.

@@ -1,1 +1,8 @@
 ##plural 1
+
+STR_ABSTRACT                                    :OpenTTD هي لعبة محاكاة أعمال يكسب فيها اللاعبون المال عن طريق نقل الركاب والبضائع عبر الطرق والسكك الحديدية والمياه والجو. وهي طبعة جديدة مفتوحة المصدر وتوسيع للعبة عام 1995  Chris Sawyer Transport Tycoon Deluxe
+STR_OVERVIEW_BUILD_TITLE                        :قم بالبناء
+STR_OVERVIEW_TRANSPORT_TITLE                    :انقل
+STR_OVERVIEW_UPGRADE_TITLE                      :تطوير
+STR_OVERVIEW_UPGRADE_TEXT                       :مواكبة التحسينات التكنولوجية على مر السنين مع نمو المدن ؛ واختراع وسائل نقل جديدة ؛ والصناعات تظهر أو تغير الإنتاج أو تفشل. قم بتوسيع المحطات وبناء سعة الشبكة لمواكبة الطلب وتجنب التأخير
+STR_OVERVIEW_EXTEND_TITLE                       :وسع

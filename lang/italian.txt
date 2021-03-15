@@ -1,1 +1,13 @@
 ##plural 0
+
+STR_ABSTRACT                                    :OpenTTD è un gioco di simulazione aziendale dove i giocatori guadagnano trasportando passeggeri e merci via strada, rotaia, acqua e aria. È un remake e un'espansione open source del gioco Transport Tycoon Deluxe, realizzato nel 1995 da Chris Sawyer.
+STR_OVERVIEW_BUILD_TITLE                        :Costruisci
+STR_OVERVIEW_BUILD_TEXT                         :Collega industrie e città su mappe proceduralmente generate fino a 4096 x 4096 riquadri costruendo una fitta rete di strade, ferrovie, porti navali e aeroporti. Percorri strade trafficate, attraversa oceani e fiumi e conquista alte montagne scegliendo uno dei quattro ambienti disponibili.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Trasporta
+STR_OVERVIEW_TRANSPORT_TEXT                     :Lavora da solo o con gli amici per completare filiere produttive e trasportare beni finiti alle città. Costruisci una flotta di centinaia di veicoli trasferendo carichi in una rete interconnessa e multimodale, con tanto di destinazioni opzionali per le merci.
+STR_OVERVIEW_UPGRADE_TITLE                      :Aggiorna
+STR_OVERVIEW_UPGRADE_TEXT                       :Stai al passo con i miglioramenti tecnologici man mano che gli anni passano, le città crescono, nuovi tipi di trasporto vengono inventati e nuove industrie appaio, cambiano produzione o cessano di esistere. Espandi le tue stazioni e costruisci reti di trasporto capaci di evitare ritardi e di mantenere il passo con la crescente domanda.
+STR_OVERVIEW_EXTEND_TITLE                       :Estendi
+STR_OVERVIEW_EXTEND_TEXT                        :Personalizza la tua esperienza OpenTTD con le mod della comunità scaricabili all'interno del gioco, come ad esempio veicoli realistici, nuovi set industriali, scenari personalizzati e molto altro.
+STR_OVERVIEW_LICENSE_TITLE                      :Libero e open source
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD è un software libero e open source, distribuito con licenza GNU General Public License 2.0. Lo sviluppo del gioco è ancora in corso. Il termine "OpenTTD" non rappresenta un'abbreviazione di alcun tipo.
