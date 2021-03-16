@@ -1,6 +1,6 @@
-# Translations for the Steam Store Page
+# Assets and Translations for the Steam Store Page
 
-This repository contains the translations for the translatable text blocks on [OpenTTD's Steam Store Page](https://store.steampowered.com/app/1536610/OpenTTD/).
+This repository contains the media assets and translations for the translatable text blocks on [OpenTTD's Steam Store Page](https://store.steampowered.com/app/1536610/OpenTTD/).
 
 
 # Language mapping
