@@ -1,2 +1,3 @@
 ##plural 6
 
+STR_OVERVIEW_TRANSPORT_TITLE                    :Транспорт

@@ -1,6 +1,13 @@
 ##plural 10
 
-STR_ABSTRACT                                    :OpenTTD je podnikatelská simulační hra, ve které hráči vydělávají peníze přepravou pasažérů a nákladu po silnici, železnici, vodě i letecky. Jedná se o předělávku a rozšíření s otevřeným zdrojovým kódem hry Transport Tycoon Deluxe z roku 1995 od Chrise Sawyera.
+STR_ABSTRACT                                    :OpenTTD je podnikatelská simulační hra, ve které hráči vydělávají peníze přepravou pasažérů a nákladu po silnici, železnici, vodě i letecky. Jedná se o předělávku a rozšíření hry Transport Tycoon Deluxe z roku 1995 od Chrise Sawyera, s otevřeným zdrojovým kódem.
+STR_OVERVIEW_BUILD_TITLE                        :Buduj
 STR_OVERVIEW_BUILD_TEXT                         :Propoj průmysl a města na procedurálně generované mapě o velikosti až 4096 x 4096 políček vybudováním sítě silnic, železnic, přístavů a letišť. Neztrať se v rušných ulicích měst, překonej řeky a oceány, a pokoř vysoké hory v jednom ze čtyř podnebí.
-STR_OVERVIEW_UPGRADE_TEXT                       :Drž krok s technologickými vylepšeními v průběhu let s tím jak města rostou; jsou vynalezeny nové způsoby přepravy; a průmysl vzniká, zaniká či mění výrobu. Rozšiřuj stanice a posiluj kapacitu přepravní sítě pro uspokojení poptávky a zamezení zpoždění.
-STR_OVERVIEW_EXTEND_TEXT                        :Přízpůsob si svůj OpenTTD zážitek komunitou vytvořenými modifikacemi staženými přes ve hře zabudovaného správce obsahu. V nabídce jsou reálná vozidla, nové sady průmyslu, vlastní scénáře, a mnohem více.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Přepravuj
+STR_OVERVIEW_TRANSPORT_TEXT                     :Sám nebo s přáteli pracuj na dokončení produkčních řetězců a zajisti přepravu hotového zboží do měst. Sestav flotilu stovek vozidel přepravujících náklad tak, jak je to potřeba v propojené, multimodální siti, s volitelnými destinacemi pro náklad.
+STR_OVERVIEW_UPGRADE_TITLE                      :Vylepšuj
+STR_OVERVIEW_UPGRADE_TEXT                       :Drž krok s technologickými vylepšeními v průběhu let s tím, jak města rostou; jsou vynalezeny nové způsoby přepravy; a průmysl vzniká, zaniká či mění výrobu. Rozšiřuj stanice a posiluj kapacitu přepravní sítě pro uspokojení poptávky a zamezení zpoždění.
+STR_OVERVIEW_EXTEND_TITLE                       :Rozšiřuj
+STR_OVERVIEW_EXTEND_TEXT                        :Přízpůsob si svůj OpenTTD zážitek komunitou vytvořenými modifikacemi staženými přes, ve hře zabudovaného, správce obsahu. V nabídce jsou reálná vozidla, nové sady průmyslu, vlastní scénáře, a mnohem více.
+STR_OVERVIEW_LICENSE_TITLE                      :Svobodný a otevřený software
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD je svobodný a otevřený software, licencovaný pod GNU General Public License verze 2.0. OpenTTD je stále ve vývoji. OpenTTD není zkratka pro cokoli.
