@@ -1,13 +1,13 @@
 ##plural 0
 
-STR_ABSTRACT                                    :Openttd är ett simulator spel där spelaren tjänar pengar genom att transportera passagerare och gods via vägar, järnvägar, vatten, och via luften. Det är en öppen källkods remake och expansion av Chris Sawyers spel Transport Tycoon Deluxe från 1995.
+STR_ABSTRACT                                    :Openttd är ett simulatorspel där spelaren tjänar pengar genom att transportera passagerare och gods via vägar, järnvägar, vatten, och via luften. Det är en öppen källkods remake och expansion av Chris Sawyers spel Transport Tycoon Deluxe från 1995.
 STR_OVERVIEW_BUILD_TITLE                        :Bygg
-STR_OVERVIEW_BUILD_TEXT                         :Koppla ihop industrier och städer på genererade kartor upp till 4096 x 4096 rutor genom att bygga nätverk av vägar, järnvägar, hamnar, och flygplatser. Navigera i täta stadsgator, korsa hav och floder och erövra höga berg i en av fyra olika klimat.
+STR_OVERVIEW_BUILD_TEXT                         :Koppla ihop industrier och städer på genererade kartor upp till 4096 x 4096 rutor genom att bygga nätverk av vägar, järnvägar, hamnar, och flygplatser. Navigera i täta stadsgator, korsa hav och floder och erövra höga berg i ett av fyra olika klimat.
 STR_OVERVIEW_TRANSPORT_TITLE                    :Transportera
 STR_OVERVIEW_TRANSPORT_TEXT                     :Arbeta ensam eller med vänner för att slutföra produktionskedjor och transportera de färdiga varorna till städer. Sätt ihop en flotta av hundratals fordon, överför last vid behov i ett sammankopplat nätverk med valfri destination.
 STR_OVERVIEW_UPGRADE_TITLE                      :Uppgradera
 STR_OVERVIEW_UPGRADE_TEXT                       :Häng med de teknologiska förbättringarna genom åren medans Städer växer; nya transportsätt uppfinns; och nya industrier dyker upp, ändrar produktion eller stänger. Utöka stationer och bygg effektiva nätverk för att hålla jämna steg med efterfrågan och undvika förseningar.
 STR_OVERVIEW_EXTEND_TITLE                       :Utöka
-STR_OVERVIEW_EXTEND_TEXT                        :Anpassa din OpenTTD upplevelse via gemenskaps gjorda moddar som laddas ner via spelets egen innehållstjänst, Vilket innehåller verkliga fordon, nya industrier, anpassade scenarier och mycket mer.
+STR_OVERVIEW_EXTEND_TEXT                        :Anpassa din OpenTTD-upplevelse via gemenskapsgjorda moddar som laddas ner via spelets egen innehållstjänst, vilket innehåller verkliga fordon, nya industrier, anpassade scenarier och mycket mer.
 STR_OVERVIEW_LICENSE_TITLE                      :Gratis och öppen källkod
 STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD är gratis och med öppen källkod, licensierad under GNU General Public License version 2.0. OpenTTD är under pågående utveckling. OpenTTD är inte en förkortning av någonting.
