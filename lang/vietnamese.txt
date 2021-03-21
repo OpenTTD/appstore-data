@@ -1,2 +1,7 @@
 ##plural 1
 
+STR_OVERVIEW_BUILD_TITLE                        :Xây dựng
+STR_OVERVIEW_TRANSPORT_TITLE                    :Vận chuyển
+STR_OVERVIEW_UPGRADE_TITLE                      :Nâng cấp
+STR_OVERVIEW_EXTEND_TITLE                       :Mở rộng
+STR_OVERVIEW_LICENSE_TITLE                      :Mã nguồn mở miễn phí
