@@ -1,2 +1,8 @@
 ##plural 1
 
+STR_OVERVIEW_BUILD_TITLE                        :建築
+STR_OVERVIEW_TRANSPORT_TITLE                    :運輸
+STR_OVERVIEW_UPGRADE_TITLE                      :升級
+STR_OVERVIEW_EXTEND_TITLE                       :擴張
+STR_OVERVIEW_EXTEND_TEXT                        :在遊戲中的內容服務下載由社群製作的模組來打造您的 OpenTTD 體驗，包含現實世界的車輛、新的工業組合、自定義場景...等。
+STR_OVERVIEW_LICENSE_TITLE                      :免費且開源
