@@ -1,2 +1,13 @@
 ##plural 2
 
+STR_ABSTRACT                                    :Az OpenTTD egy üzleti szimulációs játék, amelyben a játékosok utas- és áruszállítással keresnek pénzt közúton, vasúton, vízen és levegőben. A játék Chris Sawyer 1995-ös játékának, a Transport Tycoon Deluxe-nak nyílt forrráskódú újraírása és kiterjesztése.
+STR_OVERVIEW_BUILD_TITLE                        :Építs
+STR_OVERVIEW_BUILD_TEXT                         :Építs összeköttetéseket városok és ipari épületek között akár 4096 x 4096 mező méretű, procedurálisan generált pályákon közúti, vasúti hálózatok, valamint kikötők és repülőterek segítségével. Közlekedj a városok sűrű utcáin, kelj át tengereken és folyókon, juss fel magas hegycsúcsokra a négy tájtípus valamelyikén.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Szállíts
+STR_OVERVIEW_TRANSPORT_TEXT                     :Dolgozz egyedül, vagy barátaiddal azon, hogy teljes ellátási láncokat építs ki, és a végtermékek megfelelően eljussanak a városokba. Használj több száz járműből álló járműflottákat, hogy az áruk akár több átrakodással, egy összetett hálózaton keresztül jussanak el a rendeltetési helyükre.
+STR_OVERVIEW_UPGRADE_TITLE                      :Fejlessz
+STR_OVERVIEW_UPGRADE_TEXT                       :Tartsd a lépést a technológiai fejlődéssel, ahogy a városok növekednek, új járműveket fejlesztenek ki; illetve ahogy új gazdasági épületek jelennek meg, növelik a termelésüket, vagy éppen buknak meg. Bővítsd az állomásaidat, és fejleszd a hálózatodat, hogy lépést tudj tartani a kereslet növekedésével, és elkerüld a késéseket.
+STR_OVERVIEW_EXTEND_TITLE                       :Szabd személyre
+STR_OVERVIEW_EXTEND_TEXT                        :Szabd személyre az OpenTTD a közösség által készített számtalan mod segítségével, amelyek elérhetőek a játékbeli letöltőrendszerből: legyenek ezek valós járművek, újfajta gazdasági épületek, saját pályák, vagy egyebek.
+STR_OVERVIEW_LICENSE_TITLE                      :Ingyenes és nyílt forráskódú
+STR_OVERVIEW_LICENSE_TEXT                       :Az OpenTTD ingyenes és nyílt forráskódú szoftver, ami a GNU General Public License 2.0 verziójának feltételei mellett érhető el. Az OpenTTD folyamatosan fejlesztés alatt áll. Az OpenTTD semminek sem rövidítése.
