@@ -1,2 +1,13 @@
 ##plural 1
 
+STR_ABSTRACT                                    :OpenTTD 是一款商业模拟游戏，玩家通过公路、铁路、水路和航空运输乘客和货物以营利。它是1995年克里斯索耶电子游戏运输大亨豪华版(Transport Tycoon Deluxe)的一个开源重制和扩展。
+STR_OVERVIEW_BUILD_TITLE                        :建造
+STR_OVERVIEW_BUILD_TEXT                         :在程序生成的高达4096 x 4096瓦片的地图上，通过建立道路、铁路、码头和机场网络，将工业和城市连接。在四种气候中选取一种，在密集的城市街道上穿行，穿越海洋和河流，征服高山。
+STR_OVERVIEW_TRANSPORT_TITLE                    :运输
+STR_OVERVIEW_TRANSPORT_TEXT                     :独自或与朋友一起完成供应链并将成品运输到城镇。组建一个由数百辆汽车组成的车队，在一个相互连接的多模网络中根据需要运送货物，并提供可选的货物目的地。
+STR_OVERVIEW_UPGRADE_TITLE                      :升级
+STR_OVERVIEW_UPGRADE_TEXT                       :跟上技术的进步，城镇的发展，新的交通方式的发明，工业的出现、产量改变或倒闭，扩大车站和建设网络容量，以跟上需求并避免延误。
+STR_OVERVIEW_EXTEND_TITLE                       :扩展
+STR_OVERVIEW_EXTEND_TEXT                        :自定义你的 OpenTTD 体验。可利用游戏内内容服务下载社区制作的各种 mod，包括真实世界的车辆，新工业，自定义场景等。
+STR_OVERVIEW_LICENSE_TITLE                      :自由开源
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD 是自由的开源软件，通过 GNU 通用公共许可证版本 2.0 授权。OpenTTD 正在持续开发中。OpenTTD 不是任何东西的缩写。

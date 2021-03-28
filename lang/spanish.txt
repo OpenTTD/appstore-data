@@ -8,6 +8,6 @@ STR_OVERVIEW_TRANSPORT_TEXT                     :Trabaja solo o con amigos para 
 STR_OVERVIEW_UPGRADE_TITLE                      :Renuévate
 STR_OVERVIEW_UPGRADE_TEXT                       :Mantente al día con las mejoras tecnológicas a través de los años mientras crecen las ciudades, se inventan nuevos medios de transporte, las industrias aparecen, cambian de producción o quiebran. Amplía las estaciones y aumenta la capacidad de tu red para satisfacer la demanda y evitar retrasos.
 STR_OVERVIEW_EXTEND_TITLE                       :Amplía
-STR_OVERVIEW_EXTEND_TEXT                        :Personaliza tu experiencia de juego con mods creados por la comunidad, descargables mediante el servicio de contenido incorporado del juego, incluyendo vehículos del mundo real, nuevos conjuntos de industrias, escenarios personalizados y mucho más.
+STR_OVERVIEW_EXTEND_TEXT                        :Personaliza tu experiencia de juego con mods creados por la comunidad, descargables mediante el servicio de contenido incorporado en el juego, incluyendo vehículos del mundo real, nuevos conjuntos de industrias, escenarios personalizados y mucho más.
 STR_OVERVIEW_LICENSE_TITLE                      :Gratis y de código abierto
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD es software gratuito y de código abierto, bajo licencia GNU General Public License versión 2.0. OpenTTD está en continuo desarrollo. OpenTTD no es abreviatura de nada
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD es software gratuito y de código abierto, bajo licencia GNU General Public License versión 2.0. OpenTTD está en continuo desarrollo. OpenTTD no es abreviatura de nada.
