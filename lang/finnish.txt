@@ -1,2 +1,13 @@
 ##plural 0
 
+STR_ABSTRACT                                    :OpenTTD on liiketoimintasimulaatiopeli, jossa pelaajat ansaitsevat rahaa kuljettamalla matkustajia ja rahtia maanteitse, rautateitse, meriteitse ja ilmassa. Se on alkuperäistä laajempi avoimen lähdekoodin uudelleentoteutus Chris Sawyerin vuonna 1995 ilmestyneelle Transport Tycoon Deluxe -pelille.
+STR_OVERVIEW_BUILD_TITLE                        :Rakenna
+STR_OVERVIEW_BUILD_TEXT                         :Yhdistä teollisuuslaitoksia ja kaupunkeja rakentamalla maanteitä, rautateitä, satamia ja lentokenttiä jopa 4096 × 4096 ruudun kokoisille ohjelmallisesti luoduille kartoille.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Kuljeta
+STR_OVERVIEW_TRANSPORT_TEXT                     :Tee täysiä tuotantoketjuja yksin tai kavereiden kanssa ja kuljeta valmiit tavarat kaupunkeihin. Luo satojen kulkuneuvojen kuljetuskalusto kuljettamaan rahtia tarpeen mukaan eri kuljetusmuodoista koostuvassa verkostossa, jossa voi valinnaisesti käyttää myös rahdin kohteita.
+STR_OVERVIEW_UPGRADE_TITLE                      :Paranna
+STR_OVERVIEW_UPGRADE_TEXT                       :Pysy mukana teknisen kehityksen ahdissa vuodesta toiseen: kaupungit kasvavat, uusia kuljetusmuotoja keksitään, ja teollisuutta perustetaan, lakkautetaan ja tuotantoa muutetaan. Laajenna asemia ja rakenna verkkokapasiteettia tarpeeseen vastaamiseksi ja myöhästymisten estämiseksi.
+STR_OVERVIEW_EXTEND_TITLE                       :Laajenna
+STR_OVERVIEW_EXTEND_TEXT                        :Mukauta OpenTTD-kokemusta käyttämällä yhteisön tekemiä lisäosia, kuten tosimaailman kulkuneuvoja, uusia teollisuuskokoelmia ja mukautettuja skenaarioita. Lisäosia ladataan pelin sisäisestä sisältöpalvelusta.
+STR_OVERVIEW_LICENSE_TITLE                      :Vapaa ja avoin lähdekoodi
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD on vapaa avoimen lähdekoodin ohjelmisto, joka on lisensoitu GNU General Public Licensen versiolla 2.0. OpenTTD:tä kehitetään kaiken aikaa. OpenTTD ei ole lyhenne mistään.
