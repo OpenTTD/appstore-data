@@ -6,7 +6,7 @@ STR_OVERVIEW_BUILD_TEXT                         :Verbinden Sie Industrien und St
 STR_OVERVIEW_TRANSPORT_TITLE                    :Transportieren
 STR_OVERVIEW_TRANSPORT_TEXT                     :Arbeiten Sie alleine oder mit Freunden zusammen, um Produktionsketten zu vervollständigen und transportieren Sie fertige Güter zu Städten. Errichten Sie eine Flotte aus hunterten Fahrzeugen, befördern Sie Fracht nach Bedarf in einem vernetztem multimodalem Netzwerk mit optionalen Frachtzielorten.
 STR_OVERVIEW_UPGRADE_TITLE                      :Aufwerten
-STR_OVERVIEW_UPGRADE_TEXT                       :Halten Sie mit dem technischem Fortschritt im Laufe der Jahre mit, während die Städte wachsen; neue Transportmethoden werden erfunden; und Industrien erscheinen, ändern die Produktion, oder müssen schließen. Bauen Sie Stationen aus und bauen Sie die Netzwerkkapazität aus, um mit der Nachfrage mitzuhalten und Verzögerungen zu vermeiden.
+STR_OVERVIEW_UPGRADE_TEXT                       :Halten Sie mit dem technischem Fortschritt im Laufe der Jahre mit, während die Städte wachsen; neue Transportmethoden erfunden werden; und Industrien erscheinen, ändern ihre Produktion, oder müssen schließen. Bauen Sie Stationen aus und bauen Sie die Netzwerkkapazität aus, um mit der Nachfrage mitzuhalten und Verzögerungen zu vermeiden.
 STR_OVERVIEW_EXTEND_TITLE                       :Erweitern
 STR_OVERVIEW_EXTEND_TEXT                        :Passen Sie Ihr OpenTTD-Spielerlebnis mittels Mod-Downloads von der Spielergemeinschaft mit dem Inhaltedienst im Spiel an. Es gibt Fahrzeuge aus der echten Welt, neue Industriesätze, eigene Szenarien und mehr.
 STR_OVERVIEW_LICENSE_TITLE                      :Frei und Open-Source

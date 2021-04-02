@@ -1,2 +1,13 @@
 ##plural 0
 
+STR_ABSTRACT                                    :OpenTTD este un simulator de afaceri în care jucătorii câștigă bani prin transportul de pasageri și marfă pe rute terestre, ferate, pe apă și în aer. Acesta este o reproducere și o expansiune, cu sursa deschisă, a jocului video creat de Chris Sawyer în 1995, Transport Tycoon Deluxe.
+STR_OVERVIEW_BUILD_TITLE                        :Construiește
+STR_OVERVIEW_BUILD_TEXT                         :Conectează industrii și orașe pe hărți generate procedural, de până la 4096 x 4096 de dale, construind o rețea de drumuri, căi ferate, porturi și aeroporturi. Navighează orașe urbane dense, traversează oceane și râuri, și cucerește munții înalți într-una dintre cele patru clime.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Transportă
+STR_OVERVIEW_TRANSPORT_TEXT                     :Muncește singur sau cu prietenii ca să finalizezi lanțuri de producție și să transporți produse finite în orașe. Construiește o flotă de sute de vehicule, transferând marfa necesară într-o rețea interconectată, combinată, cu destinații opționale pentru marfă.
+STR_OVERVIEW_UPGRADE_TITLE                      :Modernizează
+STR_OVERVIEW_UPGRADE_TEXT                       :Ține pasul cu progresul tehnologic în decursul anilor, pe măsură ce orașele se dezvoltă, noi moduri de transport sunt inventate, iar noi industrii apar, își modifică producția sau eșuează. Mărește stațiile și extinde capacitatea rețelei ca să ții pasul cu cererea și să eviți întârzierile.
+STR_OVERVIEW_EXTEND_TITLE                       :Extinde
+STR_OVERVIEW_EXTEND_TEXT                        :Personalizează-ți experiența OpenTTD prin modificări făcute de comunitate, descărcate prin serviciul integrat de conținut, inclusiv cu vehicule reale, noi seturi de industrii, scenarii personalizate și altele.
+STR_OVERVIEW_LICENSE_TITLE                      :Software liber, cu sursa deschisă
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD este software liber cu sursa deschisă, licențiat sub termenii Licenței Publice Generale GNU, versiunea 2.0. OpenTTD este în continuă dezvoltare. OpenTTD nu este o abreviere.
