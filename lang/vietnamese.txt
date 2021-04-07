@@ -1,7 +1,12 @@
 ##plural 1
 
+STR_ABSTRACT                                    :OpenTTD là một trò chơi mô phỏng kinh doanh, người chơi sẽ vận hành một công ty vận chuyển có trách nhiệm xây dựng mạng lưới vận chuyển hành khách, hàng hóa bằng đường bộ, đường sắt, đường thủy và đường không. Dựa trên trò chơi Transport Tycoon Deluxe phát hành bởi Chris Sawyer vào năm 1995, OpenTTD được làm lại dưới dạng nguồn mở và có thêm nhiều tính năng mở rộng.
 STR_OVERVIEW_BUILD_TITLE                        :Xây dựng
+STR_OVERVIEW_BUILD_TEXT                         :Kết nối các nhà máy và thành thị trong một bản đồ được tạo ngẫu nhiên bằng thuật toán với kích thước lên đến 4096 x 4096 ô, bằng cách xây dựng mạng lưới đường bộ, đường sắt, bến cảng và cảng hàng không. Di chuyển giữa thành thị đông đúc, vượt qua biển cả và sông ngòi, chinh phục những đính núi cao trong bốn dạng địa hình và khí hậu khác nhau.
 STR_OVERVIEW_TRANSPORT_TITLE                    :Vận chuyển
+STR_OVERVIEW_TRANSPORT_TEXT                     :Một mình hoặc cùng với bạn bè hoàn thành chuỗi cung ứng và vận chuyển hàng tới các thành thị. Quản lý những đội phương tiện, vận chuyển hàng hóa khi có nhu cầu trong một mạng lưới giao thông đa kết nối, đa phương thức với điểm đến tùy chọn.
 STR_OVERVIEW_UPGRADE_TITLE                      :Nâng cấp
+STR_OVERVIEW_UPGRADE_TEXT                       :Bắt kịp những tiến bộ kỹ thuật cùng với sự phát triển đô thị qua năm tháng; những hình thức vận chuyển mới được phát minh; những ngành công nghiệp mới được hình thành, thay đổi sản xuất, hoặc bị đào thải. Mở rộng các trạm giao thông và xây dựng mạng lưới để theo kịp nhu cầu vận chuyển và hạn chế sự chậm trễ.
 STR_OVERVIEW_EXTEND_TITLE                       :Mở rộng
+STR_OVERVIEW_EXTEND_TEXT                        :Tùy chỉnh trải nghiệm khi chơi OpenTTD bằng những nội dung được tạo bởi cộng đồng, bao gồm phương tiện giao thông, nhà máy công nghiệp, kịch bản tùy chỉnh, và nhiều hơn nữa.
 STR_OVERVIEW_LICENSE_TITLE                      :Mã nguồn mở miễn phí
