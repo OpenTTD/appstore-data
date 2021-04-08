@@ -10,3 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :Bắt kịp những tiến bộ
 STR_OVERVIEW_EXTEND_TITLE                       :Mở rộng
 STR_OVERVIEW_EXTEND_TEXT                        :Tùy chỉnh trải nghiệm khi chơi OpenTTD bằng những nội dung được tạo bởi cộng đồng, bao gồm phương tiện giao thông, nhà máy công nghiệp, kịch bản tùy chỉnh, và nhiều hơn nữa.
 STR_OVERVIEW_LICENSE_TITLE                      :Mã nguồn mở miễn phí
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD là phần mềm mã nguồn mở miễn phí, phát hành dưới giấy phép GNU General Public License phiên bản 2.0. OpenTTD vẫn dang được phát triển. OpenTTD không phải là viết tắt của bất cứ thứ gì.
