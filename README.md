@@ -17,6 +17,11 @@ In `news` are the assets used for news posts on various of stores.
 
 In `screenshots` is our collection of screenshots we publish on stores.
 
+## Trailer
+
+As the trailer is large (100+MB for `mp4` and 2GB for the source), we cannot add it to git.
+As such, it is added as [release](https://github.com/OpenTTD/steam-data/releases).
+
 ## Language mapping for Steam
 
 [eints](https://translator.openttd.org) identifies languages different than Steam. This is the mapping we use:
