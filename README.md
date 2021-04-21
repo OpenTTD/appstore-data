@@ -1,11 +1,25 @@
-# Translations for the Steam Store Page
+# AppStore assets
 
-This repository contains the translations for the translatable text blocks on [OpenTTD's Steam Store Page](https://store.steampowered.com/app/1536610/OpenTTD/).
+This repository contains all the assets used for AppStores.
 
+- [OpenTTD's Steam Store Page](https://store.steampowered.com/app/1536610/OpenTTD/).
 
-# Language mapping
+## Folder structure
 
-Eints identifies languages different than Steam. This is the mapping we use:
+In `assets` are all the assets specific to a single store.
+Most often, those have very specific (size) requirements and are as such custom-made for that store.
+
+In `lang` are the translations of blobs of text used on the stores.
+As most stores use the same blobs, those are as generic as possible, and do not mention the stores itself.
+[eints](https://translator.openttd.org) takes care of the translations.
+
+In `news` are the assets used for news posts on various of stores.
+
+In `screenshots` is our collection of screenshots we publish on stores.
+
+## Language mapping for Steam
+
+[eints](https://translator.openttd.org) identifies languages different than Steam. This is the mapping we use:
 
 | Steam Name            | Steam API language code | Steam Web API language code | Eints ISO code | Language file name       |
 | --------------------- | ----------------------- | --------------------------- | -------------- | ------------------------ |
