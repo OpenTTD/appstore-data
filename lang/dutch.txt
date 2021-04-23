@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :Houd de technologische vooruitg
 STR_OVERVIEW_EXTEND_TITLE                       :Uitbreiden
 STR_OVERVIEW_EXTEND_TEXT                        :Pas je OpenTTD-ervaring aan met door de gemeenschap gemaakte mods die je downloadt binnen het spel, waaronder kopieën van echte voertuigen, nieuwe sets industrieën, aangepaste scenario's en meer.
 STR_OVERVIEW_LICENSE_TITLE                      :Gratis en open bron
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD is gratis openbron-software met een licentie volgens GNU General Public License versie 2.0. OpenTTD wordt voortdurend verder ontwikkeld. OpenTTD is geen afkorting van iets.
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD is gratis openbron-software met een licentie volgens GNU General Public License versie 2. OpenTTD wordt voortdurend verder ontwikkeld. OpenTTD is geen afkorting van iets.

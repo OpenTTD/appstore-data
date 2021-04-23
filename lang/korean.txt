@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :도시가 성장하면서 기�
 STR_OVERVIEW_EXTEND_TITLE                       :확장
 STR_OVERVIEW_EXTEND_TEXT                        :실제 세계의 차량, 새로운 산업시설 세트, 사용자 시나리오 등 게임 내 콘텐츠 서비스를 통해 유저들이 제작한 모드를 통해 OpenTTD를 내 마음대로 커스터마이징하세요.
 STR_OVERVIEW_LICENSE_TITLE                      :무료 및 오픈 소스
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD는 GNU General Public License 버전 2.0에 따라 사용이 허가 된 무료 오픈 소스 소프트웨어입니다. OpenTTD는 현재 개발 중입니다. OpenTTD는 어떠한 것의 약어가 아닙니다.
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD는 GNU General Public License 버전 2에 따라 사용이 허가된 무료 오픈 소스 소프트웨어입니다. OpenTTD는 현재 개발 중인 게임입니다. OpenTTD는 어떠한 이름의 약어가 아닙니다.

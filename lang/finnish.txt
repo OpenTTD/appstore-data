@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :Pysy mukana teknisen kehityksen
 STR_OVERVIEW_EXTEND_TITLE                       :Laajenna
 STR_OVERVIEW_EXTEND_TEXT                        :Mukauta OpenTTD-kokemusta käyttämällä yhteisön tekemiä lisäosia, kuten tosimaailman kulkuneuvoja, uusia teollisuuskokoelmia ja mukautettuja skenaarioita. Lisäosia ladataan pelin sisäisestä sisältöpalvelusta.
 STR_OVERVIEW_LICENSE_TITLE                      :Vapaa ja avoin lähdekoodi
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD on vapaa avoimen lähdekoodin ohjelmisto, joka on lisensoitu GNU General Public Licensen versiolla 2.0. OpenTTD:tä kehitetään kaiken aikaa. OpenTTD ei ole lyhenne mistään.
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD on vapaa avoimen lähdekoodin ohjelmisto, joka on lisensoitu GNU General Public Licensen versiolla 2. OpenTTD:tä kehitetään kaiken aikaa. OpenTTD ei ole lyhenne mistään.
