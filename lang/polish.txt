@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :Nadążaj za postępem technolo
 STR_OVERVIEW_EXTEND_TITLE                       :Modyfikuj
 STR_OVERVIEW_EXTEND_TEXT                        :Popraw swoje wrażenia w OpenTTD dzięki dodatkom tworzonym przez społeczność, pobranym przez przeglądarkę zawartości w grze, w tym pojazdy z prawdziwego świata, nowe zestawy przemysłowe, niestandardowe scenariusze i wiele innych.
 STR_OVERVIEW_LICENSE_TITLE                      :Darmowy i otwarto-źródłowy
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD jest wolnym i otwarto-źródłowym oprogramowaniem, licencjonowanym na zasadach GNU General Public License w wersji 2.0. OpenTTD jest w trakcie ciągłego rozwoju. OpenTTD nie jest skrótem od niczego.
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD jest wolnym i otwarto-źródłowym oprogramowaniem, licencjonowanym na zasadach GNU General Public License w wersji 2. OpenTTD jest w trakcie ciągłego rozwoju. OpenTTD nie jest skrótem od niczego.
