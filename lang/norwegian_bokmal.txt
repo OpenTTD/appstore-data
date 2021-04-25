@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :Hold deg oppdatert på teknolog
 STR_OVERVIEW_EXTEND_TITLE                       :Utvid
 STR_OVERVIEW_EXTEND_TEXT                        :Tilpass OpenTTD opplevelsen din med samfunnslagde modifikasjoner lastet ned gjennom en innholdtjeneste i spillet, inkludert kjøretøy fra den virkelige verden, nye industrisett, tilpassede scenarier og mer.
 STR_OVERVIEW_LICENSE_TITLE                      :Gratis og åpen-kilde
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD er gratis programvare med åpen kildekode, lisensiert under GNU General Public License versjon 2.0. OpenTTD er under kontinuerlig utvikling. OpenTTD er ikke en forkortelse av noe.
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD er gratis programvare med åpen kildekode, lisensiert under GNU General Public License versjon 2. OpenTTD er under kontinuerlig utvikling. OpenTTD er ikke en forkortelse av noe.
