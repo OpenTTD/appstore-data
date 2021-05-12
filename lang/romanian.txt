@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :Ține pasul cu progresul tehnol
 STR_OVERVIEW_EXTEND_TITLE                       :Extinde
 STR_OVERVIEW_EXTEND_TEXT                        :Personalizează-ți experiența OpenTTD prin modificări făcute de comunitate, descărcate prin serviciul integrat de conținut, inclusiv cu vehicule reale, noi seturi de industrii, scenarii personalizate și altele.
 STR_OVERVIEW_LICENSE_TITLE                      :Software liber, cu sursa deschisă
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD este software liber cu sursa deschisă, licențiat sub termenii Licenței Publice Generale GNU, versiunea 2.0. OpenTTD este în continuă dezvoltare. OpenTTD nu este o abreviere.
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD este software liber cu sursa deschisă, licențiat sub termenii Licenței Publice Generale GNU, versiunea 2. OpenTTD este în continuă dezvoltare. OpenTTD nu este o abreviere.
