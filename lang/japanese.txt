@@ -1,13 +1,13 @@
 ##plural 1
 
-STR_ABSTRACT                                    :OpenTTDは、プレイヤーが道路、鉄道、水、空を経由して乗客と貨物を輸送することでお金を稼ぐ経営開発シミュレーションゲームです。 これは、1995年のChrisSawyerビデオゲームTransportTycoonDeluxeのオープンソースのリメイク及び拡張です。
-STR_OVERVIEW_BUILD_TITLE                        :ビルド
-STR_OVERVIEW_BUILD_TEXT                         :道路、鉄道、ドック、空港のネットワークを構築することにより、最大4096 x4096タイルのマップで産業と都市を接続します。 密集した街を通り、海や川を渡り、4つの気候のいずれかでプレイできます。
-STR_OVERVIEW_TRANSPORT_TITLE                    :輸送
-STR_OVERVIEW_TRANSPORT_TEXT                     :一人で、または友達と協力して、生産チェーンを完成させ、完成品を町に輸送します。 数百台の車両を組み立て、必要に応じて、オプションの貨物目的地を備えた相互接続されたマルチモーダルネットワークで貨物を転送します。
-STR_OVERVIEW_UPGRADE_TITLE                      :アップグレード
-STR_OVERVIEW_UPGRADE_TEXT                       :町が成長するしたり、年数が経つにつれて、技術が進歩し新しい輸送モードが発明されます。 産業が出現したり、生産量を変更したり、産業が失敗したりします。 駅を拡張し、線路/道路容量を構築しながら需要に対応して遅延を回避します。
-STR_OVERVIEW_EXTEND_TITLE                       :拡張する。
-STR_OVERVIEW_EXTEND_TEXT                        :ゲーム内のコンテンツサービスを通じてダウンロードされたコミュニティ製のMODを介して、OpenTTDエクスペリエンスをカスタマイズします。これには、実際の車両、新しい業界セット、カスタムシナリオなどが含まれます。
-STR_OVERVIEW_LICENSE_TITLE                      :無料のオープンソース
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTDは無料のオープンソースソフトウェアであり、GNU General PublicLicenseバージョン2.0でライセンスされています。 OpenTTDは進行中の開発中です。 OpenTTDは何の略語でもありません。
+STR_ABSTRACT                                    :OpenTTD は乗客と貨物を道路・鉄道・水路・空路を通じて輸送して利潤を生み出す経営開発シミュレーションゲームです。このゲームは1995年にクリス・ソイヤーが制作した「Transport Tycoon Deluxe」をオープンソース化・拡張したものです。
+STR_OVERVIEW_BUILD_TITLE                        :交通網を作る
+STR_OVERVIEW_BUILD_TEXT                         :最大4096x4096タイルに及ぶマップの中で、産業と街を結ぶ道路・鉄道・海路・空路の交通網を構築しましょう。4つから選べる気候設定から1つを選んで、高密度な市街に交通機関を張り巡らせましょう。そして海と川、更には大空をも支配しましょう。
+STR_OVERVIEW_TRANSPORT_TITLE                    :人と荷物を運ぶ
+STR_OVERVIEW_TRANSPORT_TEXT                     :一人か友達と共にサプライチェーンを構築し完成品を街に運びましょう。数百もの車両を駆使して必要とされる荷物を必要なところに、相互接続された多様な輸送経路を通じて送り届けましょう。
+STR_OVERVIEW_UPGRADE_TITLE                      :技術革新に追いつく
+STR_OVERVIEW_UPGRADE_TEXT                       :年月が経つにつれて技術開発も進みます。新しい輸送手段が生み出され、新しい産業が発掘され、生産量も変わります。もちろん良くないことも起こりえます。駅を拡張し交通容量を確保してさらなる需要と遅延との戦いに備えましょう。
+STR_OVERVIEW_EXTEND_TITLE                       :ゲームを拡張する（Mod）
+STR_OVERVIEW_EXTEND_TEXT                        :ゲーム内サービスから利用できるコミュニティ製の Mod を導入して OpenTTD の挙動をカスタマイズしましょう。実在する車両・新産業チェーン・カスタムシナリオなどが利用できます。
+STR_OVERVIEW_LICENSE_TITLE                      :自由でオープンソース
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD は自由なオープンソースソフトウェアで、GNU General Public License version 2 でライセンスされています。OpenTTD は目下開発中であり、またいかなる言葉の略語でもありません。
