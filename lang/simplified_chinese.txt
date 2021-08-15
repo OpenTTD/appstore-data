@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :跟上技术的进步，城镇�
 STR_OVERVIEW_EXTEND_TITLE                       :扩展
 STR_OVERVIEW_EXTEND_TEXT                        :自定义你的 OpenTTD 体验。可利用游戏内内容服务下载社区制作的各种 mod，包括真实世界的车辆，新工业，自定义场景等。
 STR_OVERVIEW_LICENSE_TITLE                      :自由开源
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD 是自由的开源软件，通过 GNU 通用公共许可证版本 2.0 授权。OpenTTD 正在持续开发中。OpenTTD 不是任何东西的缩写。
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD 是自由且开源的软件，通过 GNU 通用公共许可证版本 2.0 授权。OpenTTD 正在持续开发中。OpenTTD 不是任何东西的缩写。
