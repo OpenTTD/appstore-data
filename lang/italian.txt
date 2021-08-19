@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :Stai al passo con i miglioramen
 STR_OVERVIEW_EXTEND_TITLE                       :Estendi
 STR_OVERVIEW_EXTEND_TEXT                        :Personalizza la tua esperienza OpenTTD con le mod della comunità scaricabili all'interno del gioco, come ad esempio veicoli realistici, nuovi set industriali, scenari personalizzati e molto altro.
 STR_OVERVIEW_LICENSE_TITLE                      :Libero e open source
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD è un software libero e open source, distribuito con licenza GNU General Public License 2.0. Lo sviluppo del gioco è ancora in corso. Il termine "OpenTTD" non rappresenta un'abbreviazione di alcun tipo.
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD è un software libero e open source, distribuito con licenza GNU General Public License 2. Lo sviluppo del gioco è ancora in corso. Il termine "OpenTTD" non rappresenta un'abbreviazione di alcun tipo.
