@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :Drž krok s technologickými vy
 STR_OVERVIEW_EXTEND_TITLE                       :Rozšiřuj
 STR_OVERVIEW_EXTEND_TEXT                        :Přízpůsob si svůj OpenTTD zážitek komunitou vytvořenými modifikacemi staženými přes, ve hře zabudovaného, správce obsahu. V nabídce jsou reálná vozidla, nové sady průmyslu, vlastní scénáře, a mnohem více.
 STR_OVERVIEW_LICENSE_TITLE                      :Svobodný a otevřený software
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD je svobodný a otevřený software, licencovaný pod GNU General Public License verze 2.0. OpenTTD je stále ve vývoji. OpenTTD není zkratka pro cokoli.
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD je bezplatný a otevřený software, licencovaný pod GNU General Public License verze 2.0. OpenTTD je stále ve vývoji. OpenTTD není zkratka pro cokoli.
