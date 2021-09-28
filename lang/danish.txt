@@ -1,2 +1,13 @@
 ##plural 0
 
+STR_ABSTRACT                                    :OpenTTD er en virksomhedssimulator hvori spillere kan tjene penge ved at transportere passagerer og fragt over veje, jernbaner, vand og gennem luften. Det er en open source genskabelse og udvidelse af Chris Sawyer's spil fra 1995, Transport Tycoon Deluxe.
+STR_OVERVIEW_BUILD_TITLE                        :Byg
+STR_OVERVIEW_BUILD_TEXT                         :Forbind industrier og byer på proceduralt-genererede kort på op til 4096 x 4096 felter, ved at bygge netværk af veje, jernbaner, dokke, og lufthavne. Naviger de tætbyggede gader i byerne, passer over vand og hav, og overvind høje bjergtinder, i et ud af fire klimaer.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Transporter
+STR_OVERVIEW_TRANSPORT_TEXT                     :Arbejd alene eller med venner for at samle produktionskæderne og transportere de færdige varer til byerne. Opbyg en flåde med hundreder af fartøjer, med gods i transit på tværs af et forbundet, multimodalt netværk. Tilvælg om du vil spille med destinationer for gods.
+STR_OVERVIEW_UPGRADE_TITLE                      :Opgrader
+STR_OVERVIEW_UPGRADE_TEXT                       :Følg med teknologiens udvikling som årene går og byerne vokser. Nye transportformer bliver opfundet. Industrier opstår, ændrer deres produktion, eller går under. Udvid stationerne og opbyg netværkskapaciteten for at følge med forespørgslen og undgå forsinkelser.
+STR_OVERVIEW_EXTEND_TITLE                       :Udvid
+STR_OVERVIEW_EXTEND_TEXT                        :Tilpas din OpenTTD oplevelse med mods fra fællesskabet, som kan downloades gennem tjenesten inde i spillet. Det inkluderer køretøjsmodeller fra virkeligheden, nye industri-sæt, specialbyggede scenarier, og meget mere.
+STR_OVERVIEW_LICENSE_TITLE                      :Fri og åben kildekode
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD er fri software med åben kildekode, licenseret under GNU General Public License version 2. OpenTTD er under fortsat udvikling. OpenTTD er ikke en forkortelse for noget.
