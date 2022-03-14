@@ -1,6 +1,6 @@
 ##plural 1
 
-STR_ABSTRACT                                    :OpenTTD, oyuncuların yolcuları ve kargoları karayolu, demiryolu, su ve hava yoluyla taşıyarak para kazandıkları bir iş simülasyon oyunudur; Chris Sawyer'ın 1995 yapımı Transport Tycoon Deluxe'ün açık kaynaklı bir yeniden yapımı ve genişletmesidir.
+STR_ABSTRACT                                    :OpenTTD, oyuncuların yolcuları ve kargoları karayolu, demiryolu, su ve hava yoluyla taşıyarak para kazandıkları bir iş simülasyon oyunudur. Chris Sawyer'ın 1995 yapımı Transport Tycoon Deluxe'ün açık kaynaklı bir yeniden yapımı ve genişletmesidir.
 STR_OVERVIEW_BUILD_TITLE                        :İnşa et
 STR_OVERVIEW_BUILD_TEXT                         :Yollar, demiryolları, rıhtımlar ve havaalanlarından oluşan bir ağ oluşturarak, 4096 x 4096 kareye kadar prosedürel olarak oluşturulmuş haritalarda endüstrileri ve şehirleri birbirine bağlayın. Yoğun şehir sokaklarında gezinin, okyanusları ve nehirleri geçin ve dört iklimden birinde yüksek dağları fethedin.
 STR_OVERVIEW_TRANSPORT_TITLE                    :Ulaştır
