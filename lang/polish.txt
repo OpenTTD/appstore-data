@@ -8,6 +8,6 @@ STR_OVERVIEW_TRANSPORT_TEXT                     :Pracuj samodzielnie lub ze znaj
 STR_OVERVIEW_UPGRADE_TITLE                      :Ulepszaj
 STR_OVERVIEW_UPGRADE_TEXT                       :Nadążaj za postępem technologicznym na przestrzeni lat, gdy miasta się rozrastają, pojawiają się nowe środki transportu, a przedsiębiorstwa otwierają się, zmieniają produkcję lub upadają. Rozbudowuj stacje i zwiększaj przepustowość sieci, aby nadążyć za popytem i uniknąć opóźnień.
 STR_OVERVIEW_EXTEND_TITLE                       :Modyfikuj
-STR_OVERVIEW_EXTEND_TEXT                        :Popraw swoje wrażenia w OpenTTD dzięki dodatkom tworzonym przez społeczność, pobranym przez przeglądarkę zawartości w grze, w tym pojazdy z prawdziwego świata, nowe zestawy przemysłowe, niestandardowe scenariusze i wiele innych.
+STR_OVERVIEW_EXTEND_TEXT                        :Dostosuj swoją przygodę z OpenTTD za pomocą dodatków tworzonych przez społeczność, pobranych przez przeglądarkę zawartości w grze, w tym pojazdów z prawdziwego świata, nowych zestawów przemysłu, niestandardowych scenariuszy i wiele innych.
 STR_OVERVIEW_LICENSE_TITLE                      :Darmowy i otwarto-źródłowy
 STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD jest wolnym i otwarto-źródłowym oprogramowaniem, licencjonowanym na zasadach GNU General Public License w wersji 2. OpenTTD jest w trakcie ciągłego rozwoju. OpenTTD nie jest skrótem od niczego.
