@@ -1,36 +1,37 @@
 import glob
+import os
 
 
 OPENTTD_TO_STEAM = {
-    "arabic_egypt": "Arabic",
-    "bulgarian": "Bulgarian",
-    "simplified_chinese": "Chinese (Simplified)",
-    "traditional_chinese": "Chinese (Traditional)",
-    "czech": "Czech",
-    "danish": "Danish",
-    "dutch": "Dutch",
-    "english": "English",
-    "finnish": "Finnish",
-    "french": "French",
-    "german": "German",
-    "greek": "Greek",
-    "hungarian": "Hungarian",
-    "italian": "Italian",
-    "japanese": "Japanese",
-    "korean": "Korean",
-    "norwegian_bokmal": "Norwegian",
-    "polish": "Polish",
-    "portuguese": "Portuguese",
-    "brazilian_portuguese": "Portuguese-Brazil",
-    "romanian": "Romanian",
-    "russian": "Russian",
-    "spanish": "Spanish-Spain",
-    "spanish_MX": "Spanish-Latin America",
-    "swedish": "Swedish",
-    "thai": "Thai",
-    "turkish": "Turkish",
-    "ukrainian": "Ukrainian",
-    "vietnamese": "Vietnamese",
+    "arabic_egypt": "arabic",
+    "bulgarian": "bulgarian",
+    "simplified_chinese": "schinese",
+    "traditional_chinese": "tchinese",
+    "czech": "czech",
+    "danish": "danish",
+    "dutch": "dutch",
+    "english": "english",
+    "finnish": "finnish",
+    "french": "french",
+    "german": "german",
+    "greek": "greek",
+    "hungarian": "hungarian",
+    "italian": "italian",
+    "japanese": "japanese",
+    "korean": "koreana",
+    "norwegian_bokmal": "norwegian",
+    "polish": "polish",
+    "portuguese": "portuguese",
+    "brazilian_portuguese": "brazilian",
+    "romanian": "romanian",
+    "russian": "russian",
+    "spanish": "spanish",
+    "spanish_MX": "latam",
+    "swedish": "swedish",
+    "thai": "thai",
+    "turkish": "turkish",
+    "ukrainian": "ukrainian",
+    "vietnamese": "vietnamese",
 }
 
 
@@ -76,6 +77,11 @@ def find_base_string():
 
 base_strings = find_base_string()
 
+with open("steam-template.json") as fp:
+    template = fp.read()
+
+os.makedirs("steam", exist_ok=True)
+
 for filename in glob.glob("lang/*.txt"):
     language = filename.split("/")[1].split(".")[0]
     if language == "english":
@@ -87,10 +93,36 @@ for filename in glob.glob("lang/*.txt"):
     translation = convert(base_strings, data)
 
     if translation:
-        print("---")
-        print(OPENTTD_TO_STEAM[language])
-        print("---")
-        print(translation)
-        print("")
+        # Replace some characters as JSON / Steam wants them slightly different
+        translation = translation.replace('"', "&quot;").replace("/", "\\/")
 
-        input("Press any key to go to the next language ...")
+        # Create the description from the first line of the translation.
+        description = translation.split("\n")[0]
+
+        # Change the newlines into something more Steam-like.
+        translation = translation.replace("\n", "\\r\\n")
+
+        # But do not exceeded 300 characters and still have a full sentence.
+        if len(description) > 300:
+            print(f"Description too long, truncating {language}")
+            if language == "thai":
+                # Thai has a different sentence structure; so we cut it on a specific part.
+                description = description[0 : description.find(" เกมนี้เป็นเกมแบบ")]
+            elif "。" in description:
+                # Languages like Japanese have a different "end of sentence" character.
+                description = description.rsplit("。", 1)[0] + "。"
+            else:
+                description = description.rsplit(".", 2)[0] + "."
+
+        if len(description) > 300:
+            print(f"Description still too long for {language}!")
+
+        # Generate the JSON file based on the template.
+        with open(f"steam/storepage_343360_{OPENTTD_TO_STEAM[language]}.json", "w") as fp:
+            fp.write(
+                template.format(
+                    language=OPENTTD_TO_STEAM[language],
+                    about=translation,
+                    short_description=description,
+                )
+            )
