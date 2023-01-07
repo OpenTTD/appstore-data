@@ -1,13 +1,13 @@
 ##plural 1
 
-STR_ABSTRACT                                    :OpenTTD, oyuncuların yolcuları ve kargoları karayolu, demiryolu, su ve hava yoluyla taşıyarak para kazandıkları bir iş simülasyon oyunudur. Chris Sawyer'ın 1995 yapımı Transport Tycoon Deluxe'ün açık kaynaklı bir yeniden yapımı ve genişletmesidir.
+STR_ABSTRACT                                    :OpenTTD, oyuncuların yolcuları ve kargoları karayolu, demiryolu, su ve hava yoluyla taşıyarak para kazandıkları bir iş simülasyonu oyunudur. Chris Sawyer'ın 1995 yapımı video oyunu Transport Tycoon Deluxe'ün açık kaynaklı bir yeniden yapımı ve genişletmesidir.
 STR_OVERVIEW_BUILD_TITLE                        :İnşa et
-STR_OVERVIEW_BUILD_TEXT                         :Yollar, demiryolları, rıhtımlar ve havaalanlarından oluşan bir ağ oluşturarak, 4096 x 4096 kareye kadar prosedürel olarak oluşturulmuş haritalarda endüstrileri ve şehirleri birbirine bağlayın. Yoğun şehir sokaklarında gezinin, okyanusları ve nehirleri geçin ve dört iklimden birinde yüksek dağları fethedin.
+STR_OVERVIEW_BUILD_TEXT                         :Yollar, demiryolları, rıhtımlar ve havaalanlarından oluşan bir ağ kurarak, 4096 x 4096 kareye kadar prosedürel olarak oluşturulmuş haritalarda endüstrileri ve şehirleri birbirine bağlayın. Yoğun şehir caddelerinde gezinin, okyanusları ve nehirleri geçin ve dört iklimden birinde yüksek dağları fethedin.
 STR_OVERVIEW_TRANSPORT_TITLE                    :Ulaştır
-STR_OVERVIEW_TRANSPORT_TEXT                     :Üretim zincirlerini tamamlamak ve bitmiş ürünleri kasabalara taşımak için tek başınıza veya arkadaşlarınızla çalışın. Çok yönlü, birleşmiş bir ağın lojistiğini; opsiyonel kargo hedeflerine gerektiği gibi sağlayan, yüzlerce araçlık bir filo oluşturun!
+STR_OVERVIEW_TRANSPORT_TEXT                     :Üretim zincirlerini tamamlamak ve bitmiş ürünleri kasabalara taşımak için tek başınıza veya arkadaşlarınızla çalışın. Çok yönlü, birbirine bağlı bir ağın lojistiğini; opsiyonel kargo güzergahlarını gerektiği gibi sağlayan, yüzlerce araçlık bir filo oluşturun!
 STR_OVERVIEW_UPGRADE_TITLE                      :Geliştir
 STR_OVERVIEW_UPGRADE_TEXT                       :Kasabaların büyüdüğü yıllar boyunca teknolojik gelişmelere ayak uydurun; yeni ulaşım türleri icat edilir; ve endüstriler ortaya çıkar, üretimi değiştirir veya başarısız olur. Talebe ayak uydurmak ve gecikmeleri önlemek için istasyonları genişletin ve ağ kapasitesi oluşturun.
 STR_OVERVIEW_EXTEND_TITLE                       :Genişlet
 STR_OVERVIEW_EXTEND_TEXT                        :Oyun içi içerik servisi aracılığıyla topluluk yapımı modlarla OpenTTD tecrübenizi özelleştirin, bunlara gerçek dünyadan araçlar, yeni endüstri takımları, özel senaryolar ve daha fazlası da dahil.
 STR_OVERVIEW_LICENSE_TITLE                      :Ücretsiz ve açık kaynak
-STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD, GNU Genel Kamu Lisansı sürüm 2.0 altında lisanslanan ücretsiz ve açık kaynaklı bir yazılımdır. OpenTTD devam eden geliştirme aşamasındadır. OpenTTD hiçbir şeyin kısaltması değildir.
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD, GNU Genel Kamu Lisansı sürüm 2 altında lisanslanan ücretsiz ve açık kaynaklı bir yazılımdır. OpenTTD devam eden bir geliştirme aşamasındadır. OpenTTD hiçbir şeyin kısaltması değildir.
