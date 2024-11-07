@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "convert-to-winstore": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../"
+    }
+  }
+}
