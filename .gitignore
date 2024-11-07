@@ -1,1 +1,5 @@
 steam/
+/winstore/obj
+/winstore/bin
+.vs
+winstore-output*
