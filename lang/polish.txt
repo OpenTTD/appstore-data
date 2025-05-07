@@ -4,10 +4,10 @@ STR_ABSTRACT                                    :OpenTTD jest biznesową grą sy
 STR_OVERVIEW_BUILD_TITLE                        :Buduj
 STR_OVERVIEW_BUILD_TEXT                         :Łącz przedsiębiorstwa i miasta na proceduralnie generowanych mapach o wymiarach do 4096 x 4096 pól, budując sieci dróg, linii kolejowych, doków i lotnisk. Poruszaj się po gęstych ulicach miast, przemierzaj oceany i rzeki oraz zdobywaj wysokie góry w jednym z czterech klimatów.
 STR_OVERVIEW_TRANSPORT_TITLE                    :Transportuj
-STR_OVERVIEW_TRANSPORT_TEXT                     :Pracuj samodzielnie lub ze znajomymi, tworząc łańcuchy produkcji i transportując gotowe towary do miast. Zbierz flotę setek pojazdów, przewożąc ładunki w zależności od potrzeb, w połączonej, multimodalnej sieci z dowolnymi miejscami docelowymi.
+STR_OVERVIEW_TRANSPORT_TEXT                     :Działaj samodzielnie lub ze znajomymi, aby tworzyć łańcuchy produkcji i dostarczać gotowe towary do miast. Zorganizuj flotę setek pojazdów, przewożąc ładunki zgodnie z zapotrzebowaniem, w połączonej, multimodalnej sieci z dowolnymi miejscami docelowymi.
 STR_OVERVIEW_UPGRADE_TITLE                      :Ulepszaj
 STR_OVERVIEW_UPGRADE_TEXT                       :Nadążaj za postępem technologicznym na przestrzeni lat, gdy miasta się rozrastają, pojawiają się nowe środki transportu, a przedsiębiorstwa otwierają się, zmieniają produkcję lub upadają. Rozbudowuj stacje i zwiększaj przepustowość sieci, aby nadążyć za popytem i uniknąć opóźnień.
 STR_OVERVIEW_EXTEND_TITLE                       :Modyfikuj
-STR_OVERVIEW_EXTEND_TEXT                        :Dostosuj swoją przygodę z OpenTTD za pomocą dodatków tworzonych przez społeczność, pobranych przez przeglądarkę zawartości w grze, w tym pojazdów z prawdziwego świata, nowych zestawów przemysłu, niestandardowych scenariuszy i wiele innych.
+STR_OVERVIEW_EXTEND_TEXT                        :Dostosuj swoją rozgrywkę w OpenTTD za pomocą tworzonych przez społeczność dodatków, pobieranych przez wbudowaną przeglądarkę zasobów, w tym pojazdów z prawdziwego świata, nowych zestawów przemysłu, niestandardowych scenariuszy i wiele innych.
 STR_OVERVIEW_LICENSE_TITLE                      :Darmowy i otwarto-źródłowy
 STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD jest wolnym i otwarto-źródłowym oprogramowaniem, licencjonowanym na zasadach GNU General Public License w wersji 2. OpenTTD jest w trakcie ciągłego rozwoju. OpenTTD nie jest skrótem od niczego.
