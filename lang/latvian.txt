@@ -1,2 +1,11 @@
 ##plural 3
 
+STR_ABSTRACT                                    :OpenTTD ir biznesa simulācijas spēle, kurā spēlētāji pelna naudu, pārvadājot pasažierus un kravas pa autoceļiem, dzelzceļu, ūdeni un gaisu. Šī ir atvērtā koda pārtaisījums un paplašinājums 1995. gada Krisa Sojera videospēlei Transport Tycoon Deluxe.
+STR_OVERVIEW_BUILD_TITLE                        :Buvē
+STR_OVERVIEW_BUILD_TEXT                         :Savienojiet nozares un pilsētas procedurāli ģenerētās kartēs ar izmēru līdz 4096 x 4096, veidojot ceļu, dzelzceļu, doku un lidostu tīklu. Virzieties pa blīvi apdzīvotām pilsētas ielām, šķērsojiet okeānus un upes un iekarojiet augstus kalnus vienā no četrām klimatiskajām zonām.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Pārvadā
+STR_OVERVIEW_TRANSPORT_TEXT                     :Strādājiet vienatnē vai kopā ar draugiem, lai pabeigtu ražošanas ķēdes un transportētu gatavās preces uz pilsētām. Apkopojiet simtiem transportlīdzekļu parku, pēc nepieciešamības pārvietojot kravas savstarpēji savienotā, multimodālā tīklā ar papildu kravu galamērķiem.
+STR_OVERVIEW_EXTEND_TITLE                       :Paplašināt
+STR_OVERVIEW_EXTEND_TEXT                        :Pielāgo savu OpenTTD pieredzi, izmantojot kopienas veidotus modifikācijas, kas lejupielādētas, izmantojot spēles satura pakalpojumu, tostarp reālas pasaules transportlīdzekļus, jaunus nozaru komplektus, pielāgotus scenārijus un citus.
+STR_OVERVIEW_LICENSE_TITLE                      :Bezmaksas un atvērtā koda
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD ir bezmaksas un atvērtā pirmkoda programmatūra, kas licencēta saskaņā ar GNU Vispārējās publiskās licences 2. versiju. OpenTTD tiek pastāvīgi izstrādāts. OpenTTD nav saīsinājums.
