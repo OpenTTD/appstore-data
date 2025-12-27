@@ -10,4 +10,4 @@ STR_OVERVIEW_UPGRADE_TEXT                       :Μείνετε συντονισ
 STR_OVERVIEW_EXTEND_TITLE                       :Επεκτείνετε
 STR_OVERVIEW_EXTEND_TEXT                        :Παραμετροποιήστε την δική σας εμπειρία χρήσης του OpenTTD μέσω mods, κατεβάζοντάς τα μέσα στο παιχνίδι από την υπηρεσία περιεχομένου και τα οποία περιλαμβάνουν πραγματικά οχήματα, νέες ομάδες βιομηχανιών, ειδικά σενάρια και πολλά ακόμα.
 STR_OVERVIEW_LICENSE_TITLE                      :Δωρέαν και ανοικτού κώδικα
-STR_OVERVIEW_LICENSE_TEXT                       :Το OpenTTD είναι ένα δωρέαν και ανοικτού κώδικα λογισμικό, αδειοδοτημένο μέσω GNU General Public License version 2. Το OpenTTD είναι υπό ενεργή ανάπτυξη. Η ονομασία OpenTTD δεν είναι συντομογραφία.
+STR_OVERVIEW_LICENSE_TEXT                       :Το OpenTTD είναι δωρεάν και ανοικτού κώδικα λογισμικό, αδειοδοτημένο μέσω GNU General Public License version 2. Το OpenTTD είναι υπό συνεχόμενη ανάπτυξη. Η ονομασία OpenTTD δεν είναι συντομογραφία.
