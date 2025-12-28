@@ -1,2 +1,13 @@
 ##plural 0
 
+STR_ABSTRACT                                    :Mae OpenTTD yn gêm efelychu busnes lle maer chwaraewyr yn ennill arian trwy gludo teitheyr a nwyddau dros ffyrdd, rheilffyrdd, dŵr ac awyr. Mae'n ailgread ac ehangiad o'r gêm 1995 Transport Tycoon Deluxe gan Chris Sawyer.
+STR_OVERVIEW_BUILD_TITLE                        :Adeiladu
+STR_OVERVIEW_BUILD_TEXT                         :Cysylltu diwydiannau a dinasoedd ar fapiau gynhyrchiad trefniadol o hyd at 4096 x 4096 teil tray adeiladu rhwydwaith o ffyrdd, rheilffydd, dociau a meysydd awyr. Llwybrwch strydoedd dinasoedd, croeswch moroedd ac afonydd, a choncrwch mynyddoedd yn un o bedwar tirwedd gwahanol.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Cludiant
+STR_OVERVIEW_TRANSPORT_TEXT                     :Gweithiwch ar eich pen eichg hun neu gyda ffrindiau i greu cadwyni cynhyrchaint a chludo nwyddau i drefi. Cydosodwch fflud o gannoedd o gerbydau, gan drosglwyddo llwythi fel yr angen mewn rhwydwaith eang, amlfodd, cysylltiedig gyda cyrchfanau cargo dewisol.
+STR_OVERVIEW_UPGRADE_TITLE                      :Uwchraddio
+STR_OVERVIEW_UPGRADE_TEXT                       :Cadwch i fyny dyda datblygiadau techgonlegol trwy'r blynyddoedd wrth i drefi dyfu; dyfeisiodulliau trafnidiaeth newydd; a diwydiannau newydd yn ymddangos, newid cynhyrchiant, neu fynd i'r wal. Ehangwch gorsafoedd ac adeiladwch capasiti rhwydwaith i gadw i fyny gyda'r galw ac osgoi oedi.
+STR_OVERVIEW_EXTEND_TITLE                       :Ymestyn
+STR_OVERVIEW_EXTEND_TEXT                        :Addaswch eich profiad OpenTTD trwy lawrlwytho addasiadau a wnaed gan y gymuned trwy'r gwasanaeth cynnwys yn y gêm, gan gynnwys cerbydau go-iawn, setiau diwydiant newydd, senarios addasedig, a mwy.
+STR_OVERVIEW_LICENSE_TITLE                      :Rhydd a ffynhonell-agored
+STR_OVERVIEW_LICENSE_TEXT                       :Mae OpenTTD yn feddalwedd rhydd a ffynhonell-agored, wedi'i drwyddedu o dan y Trwydded gyhoeddus gyffredinol GNU fersiwn 2. Mae OpenTTD o dan datblygiad pellach. Nid yw OpenTTD yn dalfyriad o unrhyw beth.
