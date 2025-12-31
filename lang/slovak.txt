@@ -1,2 +1,13 @@
 ##plural 10
 
+STR_ABSTRACT                                    :OpenTTD je simulátor prepravnej spoločnosti, v ktorej hráč získava peniaze prepravovaním pasažierov a rôzneho nákladu po cestách, železnici, vode i vzduchu. Je to open-source remake a rozšírenie hry Transport Tycoon Deluxe z 1995 vyvinutá Chrisom Sawyerom.
+STR_OVERVIEW_BUILD_TITLE                        :Stavaj
+STR_OVERVIEW_BUILD_TEXT                         :Spoj továrne a mestá na procedurálne generovanom svete až do velkosti 4096x4096 políčok stavaním ciest, železníc, dokov a letisiek. Orientuj sa v hustých mestských štvrtiach, preplávaj rieky a oceány, a doprav sa až na vrchol hôr v jednom zo štyroch dostupných podnebí.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Transport
+STR_OVERVIEW_TRANSPORT_TEXT                     :Pracuj sám alebo s kamarátmi na dokončení produkčných reťazcov, a doprav finálne výrobky do miest pre spotrebiteľov. Postav stovky vozidiel, ktoré budú prepravovať potrebný náklad po celom svete v jednej velkej, prepojenej sieti tovární.
+STR_OVERVIEW_UPGRADE_TITLE                      :Vylepšuj
+STR_OVERVIEW_UPGRADE_TEXT                       :Udrž krok s technologickým pokrokom počas vývoja ľudstva; nové spôsoby prepravy sú objavené, a objavia sa aj nové výrobky. Továrne a produkčné reťazce sa môžu zmeniť, či ukončiť výrobu úplne. Rozširuj stanice a kapacitu infraštruktúry aby si dokázal udržať dopit a vyhnúť sa zápcham.
+STR_OVERVIEW_EXTEND_TITLE                       :Rozširuj
+STR_OVERVIEW_EXTEND_TEXT                        :Uprav si svôj OpenTTD zážitok pomocou komunitných módov, ktoré sú dostupné priamo v hre v špeciálnom menu. Tieto módy obsahujú vozidlá z reálneho sveta, nové továrne a výrobky, preddefinované scenáre a mnoho ďalšieho.
+STR_OVERVIEW_LICENSE_TITLE                      :Zdarma a open-source
+STR_OVERVIEW_LICENSE_TEXT                       :OpenTTD je zdarma a otvorený softvér licencovaný pod GNU licenciou verzie 2. OpenTTD stále podlieha vývoju. OpenTTD nieje žiadna skratka.
