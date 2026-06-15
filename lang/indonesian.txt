@@ -2,6 +2,8 @@
 
 STR_ABSTRACT                                    :OpenTTD adalah game simulasi bisnis di mana para pemain menghasilkan uang dengan membawa penumpang dan kargo melalui darat, laut, dan udara. Ini adalah pembuatan ulang dan perluasan open-source dari game Transport Tycoon Deluxe tahun 1995 dari Chris Sawyer.
 STR_OVERVIEW_BUILD_TITLE                        :Bangun
+STR_OVERVIEW_BUILD_TEXT                         :Hubungkan industri dan perkotaan di peta hasil generasi prosedural dengan ukuran hingga 4096 x 4096 ubin dengan membangun jaringan jalanan, rel kereta, pelabuhan, dan bandara. Navigasi jalanan kota yang padat, seberangi samudra dan sungai, dan taklukan pengunungan yang tinggi di salah satu dari empat iklim.
+STR_OVERVIEW_TRANSPORT_TITLE                    :Transportasi
 STR_OVERVIEW_TRANSPORT_TEXT                     :Bekerja sendiri atau bersama teman untuk menuntaskan rantai produksi dan menyalurkan barang jadi ke kota. Siapkan ratusan armada yang memindahkan kargo sesuai kebutuhan dalam jaringan multimodal yang terhubung dengan tujuan kargo opsional.
 STR_OVERVIEW_UPGRADE_TITLE                      :Perbesar
 STR_OVERVIEW_UPGRADE_TEXT                       :Ikuti perkembangan teknologi dari tahun ke tahun selaras dengan pertumbuhan kota; moda transportasi ditemukan; dan industri bermunculan, berubah, atau gagal. Perluas stasiun dan tingkatkan kapasitas jaringan untuk menyesuaikan dengan kebutuhan dan mengurangi keterlambatan.
